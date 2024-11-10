@@ -1,1 +1,1 @@
-# Proyecto Colaborativo
+Modificación del readme por parte de Ricardo
